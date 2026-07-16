@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Developer and Computer Engineer** blending **4 years of software development** experience with nearly a **decade of deep hardware expertise**. This dual perspective allows me to understand systems from the bare metal up to the cloud infrastructure, delivering highly optimized and resource-efficient solutions.
+I am a **Full-Stack Developer and Computer Engineer** blending **6 years of software development** experience with nearly a **decade of deep hardware expertise**. This dual perspective allows me to understand systems from the bare metal up to the cloud infrastructure, delivering highly optimized and resource-efficient solutions.
 
 I build robust, production-ready applications tailored to solve real business bottlenecks. Whether it's reducing latency through advanced database query optimization, architecting scalable cloud ecosystems (VPS, DNS, SSL), or integrating AI to automate workflows, my focus is always on performance and tangible ROI.
 
