@@ -1,113 +1,70 @@
-# Hi there! 👋 I'm Evandro Fonseca Junior
+# Evandro Fonseca Junior
 
-**Full-Stack Developer | Cloud & AI Architect | Computer Engineer**
+**Backend Software Engineer | Node.js · NestJS · TypeScript · Python · PostgreSQL**
 
-<div align="center">
+I build reliable backend systems, APIs and integrations, with hands-on experience taking products from technical discovery and architecture through implementation, testing, deployment and production support.
 
-[![Website](https://img.shields.io/badge/evandro.dev.br-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://evandro.dev.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evandro-fonseca-junior-0969aa1b0)
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evandro.dev.br)
+[Portfolio](https://evandro.dev.br) · [LinkedIn](https://www.linkedin.com/in/evandrodevbr/) · [Email](mailto:evandrofonsecajunior@gmail.com) · [WhatsApp](https://wa.me/5547992742365)
 
-</div>
+## About me
 
----
+I'm a backend developer with 5+ years of software experience and a long-standing background in hardware and infrastructure. That combination helps me investigate problems beyond application code and design for reliability from the start.
 
-## 👨‍💻 About Me
+In the projects under my technical responsibility, I have made architecture and implementation decisions end to end: understanding business goals, choosing trade-offs, modeling data, building APIs, automating tests and delivery, and following the system in production. I value simple solutions, clear communication and ownership without losing the humility to ask, validate and learn.
 
-I am a **Full-Stack Developer and Computer Engineer** blending **6 years of software development** experience with nearly a **decade of deep hardware expertise**. This dual perspective allows me to understand systems from the bare metal up to the cloud infrastructure, delivering highly optimized and resource-efficient solutions.
+I'm currently focused on **Backend Developer / Backend Software Engineer** opportunities where I can contribute with autonomy, responsibility and consistent delivery.
 
-I build robust, production-ready applications tailored to solve real business bottlenecks. Whether it's reducing latency through advanced database query optimization, architecting scalable cloud ecosystems (VPS, DNS, SSL), or integrating AI to automate workflows, my focus is always on performance and tangible ROI.
+## Production work
 
-Currently, I am expanding my ecosystem by diving deep into **Mobile Development** (Java, Kotlin, Expo), bringing my backend architectural standards to offline-first and high-sync mobile applications.
+Some recent professional systems are private, but their architecture and outcomes can be discussed publicly:
 
----
+- Owned the architecture and delivery of a web, mobile and IoT ecosystem using NestJS, Next.js, React Native/Expo, TypeScript, Python and PostgreSQL.
+- Designed a modular NestJS platform with **8+ isolated domains**, full OpenAPI documentation, S3-compatible storage, health checks and automated tests with reported coverage above **80% of lines and 70% of branches**.
+- Built a reusable offline-first TypeScript SDK with auth, sync, media and transaction modules, including **46+ integration tests**, retry/backoff, dead-letter handling and SHA-256 deduplication.
+- Implemented an e-commerce search engine with scoring across **7 dimensions**, ACID inventory transactions, isolated customer/admin authentication and a layered shipping fallback strategy.
+- Collaborated on Angular and Node.js legacy modernization, internal libraries and business-rule implementation at Innovo.
 
-## 🚀 What I Deliver (Services & Expertise)
+## Core stack
 
-* ⚡ **High-Performance Backend:** Scalable APIs, microservices, and complex database management (SQL/NoSQL/Prisma).
-* 🧠 **AI & Automation:** Integrating local and cloud LLMs (Python, Next.js) to make applications smarter and reduce operational costs.
-* ☁️ **Cloud Architecture:** Deploying resilient, highly-available infrastructure (AWS, Docker, Linux servers/Manjaro, Dokploy).
-* 📱 **End-to-End Delivery:** From infrastructure setup and custom UI design to final mobile/web deployment and monitoring.
+| Area | Technologies |
+| --- | --- |
+| Backend | Node.js, NestJS, TypeScript, Python, REST APIs, OpenAPI |
+| Data | PostgreSQL, SQL, Drizzle ORM, Prisma ORM, SQLite |
+| Cloud & infrastructure | Docker, AWS S3, Linux, Cloudflare, CI/CD |
+| Quality & security | Jest, Vitest, Playwright, OAuth2, RBAC, JWT, Zod |
+| Additional experience | Offline-first systems, IoT/Edge, observability, computer vision, React Native |
 
----
+## Selected projects
 
-## 🛠️ Tech Stack
+### [PiAgentUI](https://github.com/evandrodevbr/PiAgentUI)
 
-<div align="center">
-  
-  ### Languages & Frameworks
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,php,react,nextjs,tailwind,sass" />
-  </a>
-  
-  <br>
+Desktop and web workspace for AI coding agents, with streaming sessions, MCP and skills panels, terminal, file explorer and a Tauri desktop application. Built with React 19, TypeScript, Vite and Tauri 2.
 
-  ### Backend & Databases
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,sqlite,prisma,firebase" />
-  </a>
+### [Gemini Nexus](https://github.com/evandrodevbr/GeminiNexus)
 
-  <br>
+Multi-account desktop gateway for Gemini and Claude. Provides OpenAI- and Anthropic-compatible APIs, SSE streaming, account switching, traffic observability and encrypted credential storage.
 
-  ### DevOps, Cloud & Tools
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,bash,powershell,git,figma,arduino" />
-  </a>
+### [orelhIA](https://github.com/evandrodevbr/orelhIA)
 
-</div>
+Local and privacy-oriented PT-BR audio transcription server for MCP agents. Built with Python, Docker and Parakeet TDT, with caching, metrics, SSRF protection and automated tests.
 
----
+### [NutriScan](https://github.com/evandrodevbr/nutriscan)
 
-## 🏆 Featured Projects
+Nutrition information platform using Next.js, TypeScript and Prisma. Integrates a collaborative dataset covering 2M+ products and 100+ countries, with advanced filters, layered caching and offline support.
 
-*(Replace these with your actual pinned repositories or live links)*
+### [latebra](https://github.com/evandrodevbr/latebra)
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🤖 Local AI Ecosystem</h3>
-        <p>A full-stack architecture for running and managing local AI models, integrating Python backends with Next.js frontends.</p>
-        <a href="https://github.com/evandrodevbr/OllaHub"><b>View Repository ➔</b></a>
-      </td>
-      <td width="50%">
-        <h3>📱 Offline-First Mobile App</h3>
-        <p>A modern Expo-based mobile application engineered with robust data synchronization and offline capabilities.</p>
-        <a href="https://github.com/evandrodevbr/appsakuma"><b>View Repository ➔</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>🌐 evandro.dev.br</h3>
-        <p>High-performance personal portfolio built with modern web standards, SEO optimization, and custom analytics.</p>
-        <a href="https://evandro.dev.br"><b>Visit Live Site ➔</b></a>
-      </td>
-      <td width="50%">
-        <h3>⚙️ Cloud & VPS Infrastructure</h3>
-        <p>Automated deployment setups, reverse proxy configurations, and system health management scripts.</p>
-        <a href="https://github.com/evandrodevbr/nutriscan"><b>View Repository ➔</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
+Self-hosted Python MCP server for private and resilient web access, search and extraction, with layered fallbacks, proxy support, observability and an extensive automated test suite.
 
----
+## Contact
 
-## 📊 GitHub Analytics
+I'm open to backend engineering roles, technical collaborations and conversations about architecture, APIs and reliable systems.
+
+- Portfolio: [evandro.dev.br](https://evandro.dev.br)
+- LinkedIn: [linkedin.com/in/evandrodevbr](https://www.linkedin.com/in/evandrodevbr/)
+- Email: [evandrofonsecajunior@gmail.com](mailto:evandrofonsecajunior@gmail.com)
+- WhatsApp: [+55 47 99274-2365](https://wa.me/5547992742365)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrodevbr&theme=transparent" alt="GitHub Stats" />
-</div>
-
----
-
-## 🤝 Let's Build Something Scalable
-
-Whether you need a full-scale enterprise application, a system integration, or want to discuss architectural challenges, my inbox is open.
-
-**[✉️ Get in touch via LinkedIn](https://linkedin.com/in/evandro-fonseca-junior-0969aa1b0)** | **[🌐 evandro.dev.br](https://evandro.dev.br)**
-
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=evandrodevbr&style=flat-square&color=22d3ee" alt="Profile views counter" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrodevbr&theme=transparent" alt="Evandro's GitHub activity overview" />
 </div>
