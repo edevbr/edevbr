@@ -2,20 +2,23 @@
 
 # Evandro Fonseca Junior
 
-**Software engineer building custom systems, apps and integrations —
-backend-focused, with hands-on work in AI agents and MCP tooling.**
+**Backend engineer building production systems, integrations, and local-first AI tooling.**
 
-![Focus](https://img.shields.io/badge/focus-backend-informational)
-![Stack](https://img.shields.io/badge/stack-Node.js_%C2%B7_NestJS_%C2%B7_TypeScript_%C2%B7_Python-informational)
-![Location](https://img.shields.io/badge/Garuva%2C_SC-UTC--3-informational)
+Garuva, Santa Catarina, Brazil · UTC-3 · Remote
 
-[Projects](#selected-projects) · [Professional work](#professional-work) · [Stack](#stack) · [Portfolio](https://evandro.dev.br) · [LinkedIn](https://www.linkedin.com/in/evandrodevbr/) · [Contact](#contact)
+**Open to backend engineering roles and technical collaborations.**
+
+[Work](#selected-work) · [Stack](#stack) · [Gitea](https://git.evandro.dev.br/evandro) · [Portfolio](https://evandro.dev.br) · [LinkedIn](https://www.linkedin.com/in/evandrodevbr/) · [Contact](#contact)
 
 </div>
 
-> [!NOTE]
-> **Status:** open to backend engineering roles and to technical collaborations.
-> Based in Garuva, Santa Catarina, Brazil (UTC-3), working remotely.
+> **Where my work lives now**
+>
+> My former GitHub account was suspended after one of my repositories was flagged. I take responsibility for the repository: it was a mistake, not bad faith, and I offered to remove it immediately so it could not affect anyone else.
+>
+> The offer did not change the outcome, and the suspension did not distinguish between the flagged repository and the years of unrelated work around it. I lost access to my personal repositories and to the repositories I maintained for the companies I worked with.
+>
+> I had backups. The code survived; the account, the issues, the reviews and the history did not. Since then my development operation has been entirely local and self-hosted. **[Gitea](https://git.evandro.dev.br/evandro) is the public door** — the canonical place to find my work, follow what I am building, and collaborate on projects I believe in. If you are hiring or evaluating me, the work below is the evidence; the account that no longer exists is not.
 
 ## What I do
 
@@ -23,41 +26,43 @@ I build software end to end: understanding the problem, choosing the trade-offs,
 
 | Area | What it covers |
 | --- | --- |
-| **Custom systems and apps** | Web applications, mobile apps and internal tools, from discovery to production |
+| **Custom systems** | Web applications, mobile apps and internal tools, from discovery to production |
 | **Integrations** | REST APIs, third-party services and IoT devices talking to the rest of the stack |
 | **Backend engineering** | API design, data modeling, authentication and authorization, automated tests, CI/CD |
-| **AI and agents** | MCP servers and agent tooling, mostly local-first and self-hosted |
+| **AI and agents** | MCP servers and agent tooling, local-first and self-hosted |
 | **Diagnostics** | Performance, security and maintainability reviews of existing systems |
 
-Five years of software work, with a longer background in hardware and infrastructure, which helps when a problem leaves the application layer.
+Five years of software work, with a longer background in hardware and infrastructure. That background helps when a problem leaves the application layer.
 
-## Selected projects
+## Selected work
 
-### AI and agent tooling
+> Most of these repositories are private. I can walk you through the code, the trade-offs and the production setup in a call.
 
-- **PiAgentUI**: desktop and web workspace for AI coding agents, with streaming sessions, MCP and skills panels, terminal and file explorer (React 19, TypeScript, Vite, Tauri 2, GPL-3.0).
-- **[gemini-nexus](https://git.evandro.dev.br/evandro/gemini-nexus)** (GeminiNexus): multi-account gateway for Gemini and Claude that exposes OpenAI- and Anthropic-compatible endpoints, with SSE streaming, usage analytics and credentials kept in the OS keychain (Electron, React 19).
-- **[orelhIA](https://git.evandro.dev.br/evandro/orelhIA)**: local PT-BR audio transcription MCP server on Parakeet TDT, with LRU cache, VAD, metrics, SSRF protection and automated tests (Python, Docker, MIT).
-- **[latebra](https://git.evandro.dev.br/evandro/latebra)**: self-hosted MCP server for private web access, search and extraction, with a three-layer anti-bot evasion pipeline, TLS impersonation, proxy rotation and a pytest suite covering the pipeline, proxy manager and stealth layers (Python, MIT).
-- **[dev-workflows](https://git.evandro.dev.br/evandro/dev-workflows)**: code review workflows shipped as agent skills, covering frontend, backend, architecture and security with explicit verification steps (MIT).
+### AI and developer tooling
 
-### Web apps and developer tools
+- **PiAgentUI** — desktop and web workspace for AI coding agents: streaming sessions, MCP and skills panels, terminal and file explorer. React 19, TypeScript, Vite, Tauri 2.
+- **gemini-nexus** — multi-account gateway for Gemini and Claude exposing OpenAI- and Anthropic-compatible endpoints, with SSE streaming, usage analytics and credentials in the OS keychain. Electron, React 19.
+- **orelhIA** — local PT-BR audio transcription MCP server on Parakeet TDT, with LRU cache, VAD, metrics, SSRF protection and automated tests. Python, Docker.
+- **latebra** — self-hosted MCP server for private web access, search and extraction, with a three-layer anti-bot pipeline, TLS impersonation, proxy rotation and a pytest suite covering the pipeline, proxy manager and stealth layers. Python.
 
-- **[nutriscan](https://git.evandro.dev.br/evandro/nutriscan)**: nutrition platform over Open Food Facts (2M+ products), with barcode search, Nutri-Score and NOVA filters, multi-layer cache and offline support (Next.js, TypeScript, Prisma). [Live demo](https://nutriscan.evandro.dev.br)
-- **[ASServicos](https://git.evandro.dev.br/evandro/ASServicos)** (as-servicos): institutional site for an engineering company, with a procedural Three.js scene that follows the page scroll (Next.js 16, React 19, TypeScript).
-- **cursorAI_install.sh**: Bash script that installs, repairs and removes the Cursor IDE on Linux, choosing AppImage, DEB or RPM from the detected distribution and architecture (MIT).
-- **[bthaven](https://git.evandro.dev.br/evandro/bthaven)**: native Windows 11 Bluetooth device and audio hub in C#, developed probe-first, so features land only after the underlying Windows behavior is demonstrated with code (MIT).
+### Client and product work
+
+- **[SEV Moda Íntima](https://evandro.dev.br/cases/sev-modaintima)** — catalog, storefront and operations panel for a lingerie brand, with products, orders and stock by size. [Live site](https://sevmodaintima.com.br).
+- **[Lavação 047](https://evandro.dev.br/cases/lavacao-047)** — site and admin panel for an automotive wash, with WhatsApp ordering and editable prices, text and photos. [Live site](https://landing-page-lavacao047.vercel.app).
+- **[AS Serviços](https://evandro.dev.br/cases/as-servicos)** — institutional site for an engineering company, with a procedural Three.js scene that follows the page scroll. Next.js 16, React 19, TypeScript.
+- **[SC Plus Aquicultura](https://evandro.dev.br/cases/sc-plus)** — institutional site with areas, projects and contact for an aquaculture company.
+
+Also: **bthaven** (native Windows 11 Bluetooth device and audio hub in C#), **cursorAI_install.sh** (Linux installer for Cursor that chooses AppImage, DEB or RPM from the detected distribution and architecture), and **dev-workflows** (code review workflows shipped as agent skills for frontend, backend, architecture and security).
 
 ## Professional work
 
-> [!NOTE]
 > Part of my work lives in private repositories. This is the scope, without the code.
 
-- Backend and integrations for the web and mobile applications that support Apolo Energia's internal routines, including IoT device integration and operations dashboards for renewable energy processes.
-- A modular NestJS platform (TypeScript, PostgreSQL, Drizzle ORM) split into 8+ isolated domains, with OpenAPI documentation, S3-compatible storage, health checks and automated tests with coverage thresholds of 80% of lines and 70% of branches.
-- An offline-first TypeScript SDK with auth, sync, media and transaction modules, including retry with backoff, dead-letter handling and SHA-256 deduplication.
-- E-commerce systems with ACID inventory transactions, separate customer and admin authentication and relevance-ranked product search.
-- At Innovo (December 2024 to February 2025): Angular front-end components and Node.js back-end logic over PostgreSQL and MySQL, internal libraries and maintenance of legacy systems.
+- **Apolo Energia** (since 2022): web and mobile applications, APIs and IoT integrations for the company's internal routines and renewable energy operations, including operations dashboards.
+- A modular **NestJS platform** (TypeScript, PostgreSQL, Drizzle ORM) split into 8+ isolated domains, with OpenAPI documentation, S3-compatible storage, health checks and automated tests with coverage thresholds of 80% of lines and 70% of branches.
+- An **offline-first TypeScript SDK** with auth, sync, media and transaction modules, including retry with backoff, dead-letter handling and SHA-256 deduplication.
+- **E-commerce systems** with ACID inventory transactions, separate customer and admin authentication and relevance-ranked product search.
+- **Innovo** (December 2024 to February 2025): Angular front-end components and Node.js back-end logic over PostgreSQL and MySQL, internal libraries and maintenance of legacy systems.
 
 ## Stack
 
@@ -70,15 +75,22 @@ Five years of software work, with a longer background in hardware and infrastruc
 | Infrastructure | Docker, Linux, S3-compatible storage, CI/CD, Firebase |
 | Quality and security | Jest, Vitest, pytest, Playwright, OAuth2, JWT, RBAC, Zod |
 
+## How I work
+
+- **Own the whole path.** I would rather understand the problem, model the data, write the API and follow it in production than hand off a layer I cannot see.
+- **Verify before calling it done.** If I cannot run it, I do not claim it works.
+- **Local-first by default.** Local models, local data, self-hosted services and backups I control. Cloud when it earns its place.
+
 ## Contact
 
-Open to backend engineering roles, technical collaborations and conversations about architecture, APIs and reliable systems.
+For backend roles, technical collaborations or conversations about architecture, APIs and reliable systems, use any of these. I work in Portuguese and English.
 
-- Portfolio: [evandro.dev.br](https://evandro.dev.br)
-- LinkedIn: [linkedin.com/in/evandrodevbr](https://www.linkedin.com/in/evandrodevbr/)
-- Email: [evandrofonsecajunior@gmail.com](mailto:evandrofonsecajunior@gmail.com)
-- WhatsApp: [+55 47 99274-2365](https://wa.me/5547992742365)
+- **Gitea (canonical):** [git.evandro.dev.br/evandro](https://git.evandro.dev.br/evandro)
+- **Portfolio:** [evandro.dev.br](https://evandro.dev.br)
+- **LinkedIn:** [linkedin.com/in/evandrodevbr](https://www.linkedin.com/in/evandrodevbr/)
+- **Email:** [evandrofonsecajunior@gmail.com](mailto:evandrofonsecajunior@gmail.com)
+- **WhatsApp:** [+55 47 99274-2365](https://wa.me/5547992742365)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandrodevbr&theme=transparent" alt="Evandro's GitHub activity overview" />
-</div>
+If you maintain a project you believe in, send me the link. I would rather contribute through Gitea, on infrastructure we can inspect.
+
+*This page is versioned at [evandro/.profile](https://git.evandro.dev.br/evandro/.profile).*
