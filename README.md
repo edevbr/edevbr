@@ -14,9 +14,9 @@ Garuva, Santa Catarina, Brazil · UTC-3 · Remote
 
 > **Where my work lives now**
 >
-> My former GitHub account was suspended after one of my repositories was flagged. I take responsibility for the repository: it was a mistake, not bad faith, and I offered to remove it immediately so it could not affect anyone else.
+> My former GitHub account was suspended after one of my repositories was flagged. I take responsibility for the repository: it was a mistake, not bad faith, and I was not trying to harm anyone. I offered to remove it immediately so it could not affect anyone else.
 >
-> The offer did not change the outcome, and the suspension did not distinguish between the flagged repository and the years of unrelated work around it. I lost access to my personal repositories and to the repositories I maintained for the companies I worked with.
+> The offer did not change the outcome. There was no path to remove the repository and keep the account, and the suspension did not distinguish between the flagged repository and the years of unrelated work around it. I lost access to my personal repositories and to the repositories I maintained for the companies I worked with.
 >
 > I had backups. The code survived; the account, the issues, the reviews and the history did not. Since then my development operation has been entirely local and self-hosted. **[Gitea](https://git.evandro.dev.br/evandro) is the public door** — the canonical place to find my work, follow what I am building, and collaborate on projects I believe in. If you are hiring or evaluating me, the work below is the evidence; the account that no longer exists is not.
 
