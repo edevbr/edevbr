@@ -1,4 +1,11 @@
-# Evandro Fonseca Junior
+<div align="center">
+  <img src="assets/readme/hero.svg" width="100%" alt="Evandro Fonseca Junior, backend engineer: APIs and integrations for IoT devices, web and mobile apps, in TypeScript, Python, NestJS and PostgreSQL. Code self-hosted at git.evandro.dev.br.">
+  <p>
+    <a href="https://evandro.dev.br/?utm_source=profile-readme">Portfolio</a> ·
+    <a href="https://git.evandro.dev.br/evandro">Gitea</a> ·
+    <a href="mailto:evandrofonsecajunior@gmail.com">Email</a>
+  </p>
+</div>
 
 Software engineer at Apolo Energia since 2022: APIs, IoT integrations and web and mobile apps, in TypeScript and Python.
 
@@ -13,6 +20,7 @@ Live client projects, each with a public case study on my portfolio.
 
 - **[SEV Moda Íntima](https://evandro.dev.br/cases/sev-modaintima)**: catalog, online store and an operations panel for products, orders and stock by size. Live at [sevmodaintima.com.br](https://sevmodaintima.com.br).
 - **[Lavação 047](https://evandro.dev.br/cases/lavacao-047)**: site and admin panel for a car wash. Customers pick a service and the order arrives on WhatsApp; the owner edits prices, text and photos without asking anyone.
+- **[Julia Beauty](https://evandro.dev.br/cases/julia-beauty)**: static site for a lash studio in Camboriú, with an eye-effect simulator, local SEO with JSON-LD and WhatsApp booking. Live at [juliabeauty.com.br](https://juliabeauty.com.br).
 - **[AS Serviços](https://evandro.dev.br/cases/as-servicos)**: institutional site for an engineering company, with a procedural Three.js scene that follows the page scroll (Next.js 16, React 19).
 - **[SC Plus Aquicultura](https://evandro.dev.br/cases/sc-plus)**: institutional site with service areas, projects and contact for an aquaculture company.
 
@@ -62,4 +70,8 @@ Elsewhere: [WhatsApp](https://wa.me/5547992742365) · [portfolio](https://evandr
 
 If you maintain a project you think I should contribute to, send me the link.
 
-<!-- Owner: Evandro. Review this page when the role changes, a project goes public, a job search starts or the portfolio changes. Last reviewed: 2026-10-20. -->
+<div align="center">
+  <sub>Made by <a href="https://evandro.dev.br">Evandro Fonseca Junior</a> · <a href="https://git.evandro.dev.br/evandro">git.evandro.dev.br</a></sub>
+</div>
+
+<!-- Owner: Evandro. Review this page when the role changes, a project goes public, a job search starts or the portfolio changes. Last reviewed: 2026-10-24. -->
